@@ -36,3 +36,19 @@ In essence, cloud monitoring combined with robust alerting transforms your appro
 
 
 **OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/d9246204-2571-4493-baaa-e68f632bb0e6)
+
+![Image](https://github.com/user-attachments/assets/4723dee7-a857-4351-8cb4-746fcba8856b)
+
+![Image](https://github.com/user-attachments/assets/72b2cfb7-6dc2-4eb7-ae03-f3a8e44ec817)
+
+![Image](https://github.com/user-attachments/assets/78790f7f-86ec-40f1-89c3-58fd0bba70e9)
+
+![Image](https://github.com/user-attachments/assets/012da0c4-01b1-4e55-94ee-6a7a1cc2b549)
+
+![Image](https://github.com/user-attachments/assets/160bc5e7-10c9-42e3-89b8-3abc5c568de0)
+
+![Image](https://github.com/user-attachments/assets/798f8100-121a-493f-b6c4-9520aa6f9d38)
+
+![Image](https://github.com/user-attachments/assets/049a4080-d560-41db-a44c-24a52b006fdb)
